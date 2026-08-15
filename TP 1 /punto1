@@ -1,1 +1,45 @@
-punto1
+
+# Clasificación y Frecuencia de Onda (60 mm)
+
+## Cálculo de la Frecuencia
+
+Para una longitud de onda de $\lambda = 60 \text{ mm}$ ($0.06 \text{ m}$), asumiendo la velocidad de la luz en el vacío ($c \approx 3 \times 10^8 \text{ m/s}$), aplicamos la ecuación fundamental de las ondas electromagnéticas:
+
+$$f = \frac{c}{\lambda} = \frac{3 \times 10^8 \text{ m/s}}{0.06 \text{ m}} = 5 \times 10^9 \text{ Hz}$$
+
+Esto equivale exactamente a **5 GHz**.
+
+## Clasificación en el Espectro
+
+*  La región de las microondas abarca generalmente desde los $300 \text{ MHz}$ ($1 \text{ m}$) hasta los $300 \text{ GHz}$ ($1 \text{ mm}$). La señal calculada está perfectamente dentro de este rango.
+*   Según la Unión Internacional de Telecomunicaciones (UIT), el límite se traza de la siguiente manera:
+    *   **UHF (Ultra High Frequency):** Abarca desde $300 \text{ MHz}$ hasta $3 \text{ GHz}$.
+    *   **SHF (Super High Frequency):** Abarca desde $3 \text{ GHz}$ hasta $30 \text{ GHz}$.
+
+Como la señal es de $5 \text{ GHz}$, supera el límite superior de UHF y entra formalmente en la banda **SHF**.
+
+![[Untitled 1-1786830340828.webp]]
+
+
+## Usos
+
+Esta señal posee los siguientes usos:
+- Wireless LANs.
+- Subidas y bajadas de satélites.
+- Enlaces terrestres de alta velocidad (conocidos como "backhauls").
+
+## Representación línea punteada
+
+![[Punto 1-1786830640348.webp]]
+
+La línea punteada roja representa una atenuación en la señal.
+
+Este efecto está presente cotidianamente en la red Wi-Fi domiciliaria al momento de que la señal atraviesa muros o la atmósfera misma (alta humedad). La señal pierde potencia, lo que dificulta su llegada a los dispositivos, produciendo la desconexión de los mismos.
+
+## Preguntas
+
+Este fenómeno afecta tanto a la telefonía celular, como a la transmisión por cable coaxial y fibra óptica.
+- En telefonía celular, las llamadas se corta, la conexión a internet puede ser lenta o perder la señal completamente.
+- En cable coaxial, se pueden perder canales de televisión o internet intermitente.
+- En fibra óptica, puede ocurrir una subida de los niveles en decibelios más allá de los límites normales, generando retraso, congelamiento de video o pérdida total de la conexión de internet.
+
