@@ -6,5 +6,7 @@ b) La respuesta corta es que NO, ya que el sistema tiene la limitación de ser u
 Por lo tanto si queremos una comunicación bidireccional y rápida, entonces se necesitaría una comunicación como full-duplex, ya que esta permite una transmisión de datos de envío y recibido de información, permitiendo una comunicación bidireccional y rápida.
 
 c) Nombre: Ping Floyd , cuarta letra: g -> ASCII = 103 = 01100111
+<img width="2345" height="402" alt="Diagrama de secuencia básico (1)" src="https://github.com/user-attachments/assets/f039a3b4-4a6c-4f75-8e45-e918b1c18f5d" />
+
 
 d) Se mediría la señal entre las marcas temporales en donde no ocurre una transición. Esto debido a que la transición no es instantánea, es decir, tiene una pendiente con duración no nula y muestrear justo sobre esa pendiente daría un valor ambiguo (Ni 0 ni 1). Por eso conviene medir la señal en el punto medio de cada intervalo de bit donde la señal ya se estabilizó, evitando los bordes cercanos a cada transición.
