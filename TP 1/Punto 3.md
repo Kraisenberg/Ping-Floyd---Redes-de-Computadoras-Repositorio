@@ -4,7 +4,8 @@
 
 2. Siguiendo la modulación en BPSK, tendríamos:
 
-   ![Diagrama de modulación BPSK](diagrama_bpsk.png)
+   <img width="1572" height="443" alt="Captura desde 2026-08-15 19-45-29" src="https://github.com/user-attachments/assets/0b067d12-a9bb-473f-bd50-10dd3f638159" />
+
 
 3. Además de PSK, también tenemos:
 
