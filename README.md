@@ -40,7 +40,7 @@ Para revisar un TP puntual, profe, solo tiene que entrar a la carpeta correspond
 - Almada, Joaquin
 - Lavena, Santiago Nicolas
 - Milanesio, Andres
-- Sacchi, Matinas Leonel
+- Sacchi, Matias Leonel
 - Tapia Suarez, Marcelo Damian
 
 ---
