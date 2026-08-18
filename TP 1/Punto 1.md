@@ -32,9 +32,9 @@ Esta señal posee los siguientes usos:
 
 <img width="948" height="259" alt="Punto 1-1786830640348" src="https://github.com/user-attachments/assets/0e7cd3fa-77ad-4bf8-acbf-022440e939e3" />
 
-La línea punteada roja representa una atenuación en la señal.
+La línea punteada roja representa una atenuación en la señal. Esto sucede como se puede observar en el gráfico porque a mayor intensidad menor distancia.
 
-Este efecto está presente cotidianamente en la red Wi-Fi domiciliaria al momento de que la señal atraviesa muros o la atmósfera misma (alta humedad). La señal pierde potencia, lo que dificulta su llegada a los dispositivos, produciendo la desconexión de los mismos.
+Este efecto está presente cotidianamente en la red Wi-Fi domiciliaria al momento en que la señal atraviesa muros o la atmósfera misma (alta humedad). La señal pierde potencia o intensidad, lo que dificulta su llegada a los dispositivos, produciendo la desconexión de los mismos.
 
 ## Preguntas
 
